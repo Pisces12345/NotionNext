@@ -25,6 +25,7 @@ const BLOG = {
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '2802484097@qq.com', // 邮箱地址 例如mail@tangly1024.com
   CONTACT_BILIBILI: process.env.NEXT_PUBLIC_CONTACT_BILIBILI || 'https://space.bilibili.com/485548562?spm_id_from=333.1007.0.0', // B站主页
+  CONTACT_FLOWUS:'https://flowus.cn/pisces99/share/4e1987fa-6a46-4e66-ae38-afba3a773029?code=YQZWQ2'
 
   NOTION_HOST: process.env.NEXT_PUBLIC_NOTION_HOST || 'https://www.notion.so', // Notion域名，您可以选择用自己的域名进行反向代理，如果不懂得什么是反向代理，请勿修改此项
 
