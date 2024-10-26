@@ -41,20 +41,17 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 前端开发工程师',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
+    '🏠 游戏化实践者',
     '🧱 团队小组发动机'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/Pisces12345',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -116,7 +113,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
